@@ -35,7 +35,7 @@ const ContactPage: React.FC = () => {
                       <h3 className="font-serif text-xl mb-2">Visit Us</h3>
                       <p className="text-primary-700 dark:text-cream-200">
                         GupShup & Coffee,<br />
-                        Begusarai, Bihar 851101, India
+                        Begusarai, Bihar 851134, India
                       </p>
                     </div>
                   </div>
